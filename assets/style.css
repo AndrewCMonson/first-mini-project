@@ -44,7 +44,6 @@ h1 {
 
 .section-2 {
     background-color: #e8cebf;
-    height: 250px;
     display: flex;
     flex-direction: column;
 }
@@ -57,8 +56,10 @@ h1 {
 .form {
     border: 5px solid #ddaf95;
     margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
     border-radius: 10px;
-    padding: 15px 25px 15px;
+    padding: 15px 50px 15px;
     background-color: #e8cebf;
     text-align: center;
 }
