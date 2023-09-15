@@ -79,7 +79,7 @@ input {
 }
 
 .button {
-    background-color: black;
+    background-color: #504846;
     color: white;
     font-weight: bold;
     padding: 2px 10px 2px;
@@ -93,5 +93,5 @@ footer {
     align-items: center;
     justify-content: center;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
 }
